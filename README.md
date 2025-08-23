@@ -84,7 +84,7 @@ Dominant pollutant accuracy: ~84%
 
 Predicted AQI vs Actual AQI:
 
-![aqi\_plot](docs/aqi_plot.png)
+![plot](aqi_plot.png)
 
 ---
 
