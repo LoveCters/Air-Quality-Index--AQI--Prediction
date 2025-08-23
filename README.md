@@ -50,12 +50,7 @@ The main goal is to explore and compare different modeling approaches for accura
 4. **Evaluation** → Compare performance across models.
 5. **Prediction** → Forecast AQI for unseen data.
 
----
 
-## Results
-
-* The notebook provides metrics and plots for each model to illustrate accuracy and prediction trends.
-* LSTM models demonstrate strong capability in capturing time-series patterns.
 
 
 
